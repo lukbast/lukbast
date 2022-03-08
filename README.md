@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Łukasz
 
 - 🔭 I’m currently working part-time as Python teaching assistant in LearnProgramming.Academy.
-- 🌱 I’m currently making my portfolio website responsive.
+- 🌱 I’m currently working on my next portfolio project.
 - :school: I'm currently a 3rd year Computer Science student on business profile.
 - :bulb: I like to learning new thing, especially when they pick my interest.
 - :earth_americas: I'm from poland.
