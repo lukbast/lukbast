@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Łukasz
 
-- 🔭 I’m currently working part-time as Python teaching assistant in LearnProgramming.Academy.
+- 🔭 I’m currently working full-time as Backend/ML developer in Digitalmonkeys.
 - 🌱 I’m currently working on my next portfolio project.
 - :school: I'm currently a 3rd year Computer Science student on business profile.
 - :bulb: I like to learning new thing, especially when they pick my interest.
